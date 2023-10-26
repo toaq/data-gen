@@ -1,0 +1,53 @@
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Shallow-clone this repo
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Shallow-clone data repo
+      uses: actions/checkout@v4
+      with:
+        repository: toaq/data
+        token: ${{ secrets.PAT_TOKEN }}
+        fetch-depth: 0
+        path: data
+
+    - name: Build via Docker
+      run: docker build -t data .
+
+    - name: Extract container image
+      run: |
+        shopt -s extglob
+        rm -rf data/!(.git)
+        docker create --name data data -
+        docker export data | tar x data
+        rm -f data/.dockerenv
+
+    - name: Commit new data
+      id: commit
+      if: github.ref == 'refs/heads/main'
+      run: |
+        cd data
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+        git add -A
+        # shield against empty commits
+        [ -n "$(git diff --shortstat --staged)" ] || exit 0
+
+        git commit -m https://github.com/toaq/data-gen/commit/$GITHUB_SHA
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.PAT_TOKEN }}
+        repository: toaq/data
+        directory: data
+        force: true
