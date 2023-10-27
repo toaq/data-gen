@@ -31,7 +31,7 @@ data/toadua/dump.json:
 		-o $@
 	jq -e .success $@ >/dev/null || exit 1
 	cp $@ $@.temp
-	jq .results $@.temp > $@
+	jq -c .results $@.temp > $@
 	rm $@.temp
 
 data/toadua/basic.json: data/toadua/dump.json
