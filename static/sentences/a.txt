@@ -149,8 +149,8 @@ Do súq náqpıa jıbo ní ba.
 Jaı nháo kûı, ꝡä jıajuı jeaqcao da.
 Jeaq suaı súqbo ba!
 Ma jeı nháo ní móq?
-Jeı jí ꝡé jıa táı hóa ba!
-Jeı jí jía táı ba!
+Jeı jí ꝡé jıa taı hóa ba!
+Jeı jí jía taı ba!
 Shaı nu kaqsı súq jí ba.
 Kaı súq chúa aqbo ba.
 Chıeche nä kaı hó ꝡé kuq gáleche hóa da.
@@ -878,16 +878,16 @@ Gaq jí súq háo nha.
 Naı gaq jí súq râo níchaq nha.
 Naı gaq hao jí súq râo níchaq nha.
 Naı gaq jí súq háo râo níchaq nha.
-Gaq jí súq jĩa râo níchaq nha.
-Gaq hao jí súq jĩa râo níchaq nha.
-Gaq jí súq háo jĩa râo níchaq nha.
-Gaq jí súq jĩa râo jíachaq nha.
-Gaq hao jí súq jĩa râo jíachaq nha.
-Gaq jí súq háo jĩa râo jíachaq nha.
+Jıa gaq jí súq râo níchaq nha.
+Jıa gaq hao jí súq râo níchaq nha.
+Jıa gaq jí súq háo râo níchaq nha.
+Jıa gaq jí súq râo jíachaq nha.
+Jıa gaq hao jí súq râo jíachaq nha.
+Jıa gaq jí súq háo râo jíachaq nha.
 Luaqgaq jí nhána nha.
 Naı luaqgaq jí nhána râo níchaq nha.
-Luaqgaq jí nhána jĩa râo níchaq nha.
-Luaqgaq jí nhána jĩa râo jíachaq nha.
+Jıa luaqgaq jí nhána râo níchaq nha.
+Jıa luaqgaq jí nhána râo jíachaq nha.
 Bu jıa nıqguo, ꝡä tao jí hóq nha.
 Bu jıa nıqguo tôı jí súq hóq nha.
 Sahu, ꝡä jıa nıqguo tao jí hóq nha.
@@ -901,19 +901,19 @@ Jeaq daqfaı, ꝡä soa jí súq nha.
 Jeaq caı jí nha.
 Pu kuq jí mó «Gaq hao jí súq nha.» teo da.
 Pu kuq jí mó «Gaq jí súq háo nha.» teo da.
-Pu kuq jí mó «Gaq jí súq nãı râo níchaq nha.» teo da.
-Pu kuq jí mó «Gaq hao jí súq nãı râo níchaq nha.» teo da.
-Pu kuq jí mó «Gaq jí súq háo nãı râo níchaq nha.» teo da.
-Pu kuq jí mó «Gaq jí súq jĩa râo níchaq nha.» teo da.
-Pu kuq jí mó «Gaq hao jí súq jĩa râo níchaq nha.» teo da.
-Pu kuq jí mó «Gaq jí súq háo jĩa râo níchaq nha.» teo da.
-Pu kuq jí mó «Gaq jí súq jĩa râo jíachaq nha.» teo da.
-Pu kuq jí mó «Gaq hao jí súq jĩa râo jíachaq nha.» teo da.
-Pu kuq jí mó «Gaq jí súq háo jĩa râo jíachaq nha.» teo da.
+Pu kuq jí mó «Naı gaq jí súq râo níchaq nha.» teo da.
+Pu kuq jí mó «Naı gaq hao jí súq râo níchaq nha.» teo da.
+Pu kuq jí mó «Naı gaq jí súq háo râo níchaq nha.» teo da.
+Pu kuq jí mó «Jıa gaq jí súq râo níchaq nha.» teo da.
+Pu kuq jí mó «Jıa gaq hao jí súq râo níchaq nha.» teo da.
+Pu kuq jí mó «Jıa gaq jí súq háo râo níchaq nha.» teo da.
+Pu kuq jí mó «Jıa gaq jí súq râo jíachaq nha.» teo da.
+Pu kuq jí mó «Jıa gaq hao jí súq râo jíachaq nha.» teo da.
+Pu kuq jí mó «Jıa gaq jí súq háo râo jíachaq nha.» teo da.
 Pu kuq jí mó «Luaqgaq jí nhána nha.» teo da.
-Pu kuq jí mó «Luaqgaq jí nhána nãı râo níchaq nha.» teo da.
-Pu kuq jí mó «Luaqgaq jí nhána jĩa râo níchaq nha.» teo da.
-Pu kuq jí mó «Luaqgaq jí nhána jĩa râo jíachaq nha.» teo da.
+Pu kuq jí mó «Naı luaqgaq jí nhána râo níchaq nha.» teo da.
+Pu kuq jí mó «Jıa luaqgaq jí nhána râo níchaq nha.» teo da.
+Pu kuq jí mó «Jıa luaqgaq jí nhána râo jíachaq nha.» teo da.
 Pu kuq jí mó «Bu jıa nıqguo, ꝡä tao jí hóq nha.» teo da.
 Pu kuq jí mó «Bu jıa nıqguo tôı jí súq hóq nha.» teo da.
 Pu kuq jí mó «Bu, ꝡä jıa nıqguo tao jí hóq nha.» teo da.
@@ -1522,12 +1522,12 @@ Tua dua súq jí, mä roe déo ba.
 Tua dua súq jí, mä bıa líqdeo ba.
 Tua dua súq jí, mä bıa náqdeo ba.
 Tua dua súq jí, mä bıa déo ba.
-Tua dua jĩa góıche úmo, mä roe líqdeo da.
-Tua dua jĩa góıche úmo, mä roe náqdeo da.
-Tua dua jĩa góıche úmo, mä roe déo da.
-Tua dua jĩa góıche úmo, mä bıa líqdeo da.
-Tua dua jĩa góıche úmo, mä bıa náqdeo da.
-Tua dua jĩa góıche úmo, mä bıa déo da.
+Jıa tua dua góıche úmo, mä roe líqdeo da.
+Jıa tua dua góıche úmo, mä roe náqdeo da.
+Jıa tua dua góıche úmo, mä roe déo da.
+Jıa tua dua góıche úmo, mä bıa líqdeo da.
+Jıa tua dua góıche úmo, mä bıa náqdeo da.
+Jıa tua dua góıche úmo, mä bıa déo da.
 Tua dua súq jí, mä maı súq sá bu jeı jí ba.
 Tua dua súq jí, mä maı nháo sá bu jeı jí ba.
 Tua dua súq jí, mä mıa paı súq ba.
