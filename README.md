@@ -1,3 +1,5 @@
+# Not currently used. See [the kuna repo](https://github.com/toaq/kuna)'s data directory.
+
 # `data-gen`
 
 This repository contains a number of scripts for generating processed
